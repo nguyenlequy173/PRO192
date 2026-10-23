@@ -32,4 +32,5 @@ public class FamilyTreeController {
     public boolean addRelationship(Relationship relationship){
         return familyTreeService.addRelationship(relationship);
     }
+    
 }
